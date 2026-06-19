@@ -122,3 +122,10 @@ interpolated = apply_pure_idw_calibration(
 | `--steps` | `1000` | DDPM reverse diffusion steps |
 | `--modality` | `PathLoss` | Radio map channel to evaluate |
 | `--batch_size` | `64` | Evaluation batch size |
+
+### Pretrained Weights
+
+Due to file size and distribution constraints, the pretrained RadioDiT weights are not directly included in this repository. 
+They are available from the authors upon reasonable request.
+
+Please contact: wangxiaoyan241@mails.ucas.ac.cn
