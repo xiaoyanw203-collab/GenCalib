@@ -122,25 +122,3 @@ interpolated = apply_pure_idw_calibration(
 | `--steps` | `1000` | DDPM reverse diffusion steps |
 | `--modality` | `PathLoss` | Radio map channel to evaluate |
 | `--batch_size` | `64` | Evaluation batch size |
-
-
-## Citation
-
-If you use this code, please cite our paper:
-
-```bibtex
-@article{your_paper_2026,
-  title   = {Your Paper Title},
-  author  = {Your Name et al.},
-  journal = {Journal Name},
-  year    = {2026}
-}
-```
-
-*(Replace with the actual BibTeX entry after publication.)*
-
----
-
-## License
-
-See the main project repository for license information.
